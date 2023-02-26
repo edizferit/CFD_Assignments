@@ -48,7 +48,7 @@ Percent error of the results of Haaland formula with respect to the Colebrook fo
 
 ## HW3-Laminar Boundary Layer on a Flat Plate
 
-### Blasius Solution
+### Blasius Solution:
 
 The following second order differential equation (Blasius Equation) is transformed to a set of first order differential equations and solved with ode45 solver.
 
@@ -60,14 +60,14 @@ Result:
   <img src="https://github.com/edizferit/CFD_Assignments/blob/main/figures/hw31.jpg?raw=true" width="50%">
 </p>
 
-### Boundary Layer Thickness
+### Boundary Layer Thickness:
 
 Followings are calculated by numerical integration with trapezoidal rule and integration errors are estimated:
 * Boundary layer thickness $\delta$
 * Boundary layer displacement thickness $\delta^{*}$ 
 * Boundary layer momentum thickness $\teta$
 
-### Velocity and Shear Stress Distribution in the Boundary Layer
+### Velocity and Shear Stress Distribution in the Boundary Layer:
 
 <p align="center">
   <img src="https://github.com/edizferit/CFD_Assignments/blob/main/figures/hw32.jpg?raw=true" width="80%">
