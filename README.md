@@ -30,7 +30,7 @@ $$area = (\frac{m^{b+1}\nu}{a\mu d^{b}})^{\frac{2}{3b+2}}$$
 Necessary area with respect to different velocities and masses are shown below:
 
 <p align="center">
-  <img src="https://github.com/edizferit/CFD_Assignments/blob/main/figures/hw1.jpg?raw=true" width="80%">
+  <img src="https://github.com/edizferit/CFD_Assignments/blob/main/figures/hw1.jpg?raw=true" width="50%">
 </p>
 
 ## HW2-Effect of Mass Flow Rate on Major Head Loss
@@ -43,7 +43,7 @@ Friction factor can be calculated by either using Colebrook formula which is a t
 Percent error of the results of Haaland formula with respect to the Colebrook formula is plotted on mass flow rate below:
 
 <p align="center">
-  <img src="https://github.com/edizferit/CFD_Assignments/blob/main/figures/hw2.jpg?raw=true" width="80%">
+  <img src="https://github.com/edizferit/CFD_Assignments/blob/main/figures/hw2.jpg?raw=true" width="50%">
 </p>
 
 ## HW3-Laminar Boundary Layer on a Flat Plate
@@ -57,7 +57,7 @@ $$2f''' + f\times f'' = 0$$
 Result:
 
 <p align="center">
-  <img src="https://github.com/edizferit/CFD_Assignments/blob/main/figures/hw31.jpg?raw=true" width="80%">
+  <img src="https://github.com/edizferit/CFD_Assignments/blob/main/figures/hw31.jpg?raw=true" width="50%">
 </p>
 
 ### Boundary Layer Thickness
