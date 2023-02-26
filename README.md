@@ -7,7 +7,7 @@
 3. Finding Boundary Layer Parameters
 
 ## HW1-Dimension Analysis
-The purpose of this HW is to determine the necessary area of a paraglider to land a spacecraft. 
+The purpose of this assignment is to determine the necessary area of a paraglider to land a spacecraft. 
 
 A dimensional analysis is carried out using existing data and a relationship is found between the variables. To show the relationship, curve fitting is applied using three different functions: second degree polynomial, power series, and exponential.
 
@@ -65,7 +65,7 @@ Result:
 Followings are calculated by numerical integration with trapezoidal rule and integration errors are estimated:
 * Boundary layer thickness $\delta$
 * Boundary layer displacement thickness $\delta^{*}$ 
-* Boundary layer momentum thickness $\teta$
+* Boundary layer momentum thickness $\theta$
 
 ### Velocity and Shear Stress Distribution in the Boundary Layer:
 
